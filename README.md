@@ -23,6 +23,12 @@ https://medium.com/hackernoon/analyzing-my-own-talk-transcript-with-natural-lang
 
 https://machinelearning.apple.com/research/language-identification-from-very-short-strings
 
+
+
+## Offline Chatgpt Models
+
+https://github.com/nomic-ai/gpt4all
+
 https://medium.com/simula-consulting-deep-tech-consultancy/automatic-topic-labelling-using-nlp-1b92de15edcc
 
 https://arxiv.org/abs/2209.09401
