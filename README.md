@@ -1,6 +1,6 @@
 # Project_Audio
 
-## Links
+## Offline Audio Transcription Model Links
 https://github.com/stanfordnlp/stanza/issues/486
 
 https://github.com/JohnSnowLabs/spark-nlp
