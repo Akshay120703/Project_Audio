@@ -35,3 +35,15 @@ https://www.linkedin.com/pulse/automatic-labeling-news-articles-using-natural-ka
 ## Offline Chatgpt Models
 
 https://github.com/nomic-ai/gpt4all
+
+
+NOTE:- Search offline models for Llama2 in office if possible and download it. 
+
+
+
+## Audio to Text Transcription Models for Hindi Language
+
+https://github.com/AI4Bharat/Indic-TTS
+
+
+
