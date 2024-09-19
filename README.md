@@ -50,4 +50,6 @@ https://github.com/AI4Bharat/Indic-TTS
 
 https://varnamproject.com/
 
+https://www.google.com/search?q=best+alternative+to+google+input+tools+in+ubuntu+24.04&client=ms-android-samsung-gj-rev1&sca_esv=de8efa94a8e5fbd0&sca_upv=1&sxsrf=ADLYWII7t80zxOIyMM-At_ZyZtbaEb-Tng%3A1726751033199&ei=OSHsZvzfC-j2seMPnd3lSQ&oq=best+alternative+to+google+input+tools+in+ubuntu+24.04&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIjZiZXN0IGFsdGVybmF0aXZlIHRvIGdvb2dsZSBpbnB1dCB0b29scyBpbiB1YnVudHUgMjQuMDQyBRAhGKABSOkXUPMQWPMQcAJ4ApABAJgBgQWgAacJqgEDNS0yuAEDyAEA-AEBmAIEoAKXBagCD8ICBBAAGEfCAgcQIxgnGOoCwgIHEC4YJxjqApgDIogGAZAGCJIHBTMuNC0xoAfiCA&sclient=mobile-gws-wiz-serp
+
 
