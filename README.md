@@ -46,4 +46,8 @@ NOTE:- Search offline models for Llama2 in office if possible and download it.
 https://github.com/AI4Bharat/Indic-TTS
 
 
+## Google Input Tools for Linux
+
+https://varnamproject.com/
+
 
