@@ -62,6 +62,12 @@ https://www.google.com/search?q=best+alternative+to+google+input+tools+in+ubuntu
 https://evidhya.com/subjects/hindi-typing/transliteration-and-input-methods
 
 
+## Speech to text converter tools for Linux
+
+
+https://www.google.com/search?q=speech+to+text+converter+tool+free+download+for+Linux&oq=speech+to+text+converter+tool+free+download+for+Linux&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTE1NTE4ajBqN6gCFLACAQ&client=ms-android-samsung-gj-rev1&sourceid=chrome-mobile&ie=UTF-8
+
+
 
 ## Chatgpt response for Hindi Transliteration
 
