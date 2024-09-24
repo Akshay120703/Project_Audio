@@ -1,5 +1,4 @@
-Project_Audio
-Offline Audio Transcription Model Links
+## Offline Audio Transcription Model Links
 stanfordnlp/stanza#486
 
 https://github.com/JohnSnowLabs/spark-nlp
@@ -28,15 +27,15 @@ https://arxiv.org/abs/2209.09401
 
 https://www.linkedin.com/pulse/automatic-labeling-news-articles-using-natural-karim-khan-m-sc-
 
-Offline Chatgpt Models
+## Offline Chatgpt Models
 https://github.com/nomic-ai/gpt4all
 
 NOTE:- Search offline models for Llama2 in office if possible and download it.
 
-Audio to Text Transcription Models for Hindi Language
+## Audio to Text Transcription Models for Hindi Language
 https://github.com/AI4Bharat/Indic-TTS
 
-Google Input Tools for Linux
+## Google Input Tools for Linux
 https://varnamproject.com/
 
 https://extensions.openoffice.org/en/project/gxliterate-google-transliteration-service-based-transliterator-openofficeorg-indic-languages
@@ -47,10 +46,10 @@ https://www.google.com/search?q=best+alternative+to+google+input+tools+in+ubuntu
 
 https://evidhya.com/subjects/hindi-typing/transliteration-and-input-methods
 
-Speech to text converter tools for Linux
+## Speech to text converter tools for Linux
 https://www.google.com/search?q=speech+to+text+converter+tool+free+download+for+Linux&oq=speech+to+text+converter+tool+free+download+for+Linux&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTE1NTE4ajBqN6gCFLACAQ&client=ms-android-samsung-gj-rev1&sourceid=chrome-mobile&ie=UTF-8
 
-Chatgpt response for Hindi Transliteration
+## Chatgpt response for Hindi Transliteration
 The "Hindi (itrans(m17n))" is an input method used on Linux systems to allow users to type in Hindi using the ITRANS scheme. ITRANS (Indian Languages Transliteration) is a popular encoding scheme for typing Indian languages using the Roman alphabet.
 
 Here's what it does on Linux:
