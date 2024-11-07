@@ -20,6 +20,10 @@ https://drive.google.com/drive/folders/1C-3pz8Y5M3F9thkZQvSgaiRIuHw-FFgO?usp=sha
 
 1) https://github.com/Vaibhavs10/fast-whisper-finetuning/blob/main/Whisper_w_PEFT.ipynb
 
+
+## Stable Diffusion Model
+https://colab.research.google.com/drive/1yo9h2-m_l2jb8I53QG46HiTg7n-AzDEQ?usp=sharing
+
 2) https://github.com/huggingface/peft/blob/main/examples/int8_training/peft_bnb_whisper_large_v2_training.ipynb
 
 
