@@ -30,3 +30,8 @@ https://youtu.be/nATRPPZ5dGE?feature=shared
 
 ## Stable Diffusion Model
 https://colab.research.google.com/drive/1yo9h2-m_l2jb8I53QG46HiTg7n-AzDEQ?usp=sharing
+
+
+## Sentiment Analysis
+
+https://colab.research.google.com/drive/1T_9tGCVpaDwPFBf8xtVKdZaMGndiTxRS?usp=sharing
