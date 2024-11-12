@@ -52,3 +52,8 @@ https://docs.google.com/document/d/1nEFj4zRGU5aFMljK6ivUCGx81G9TKHo647VUH3MUrw0/
 ## Copy of Whisper-sentiment-analysis
 
 https://colab.research.google.com/drive/16wk-AbBYs8pvpn5CcHLdgWNjunQp_9Qc
+
+
+## Analysis with score
+
+https://colab.research.google.com/drive/1T08sAoz210HiH-ahDhpjcktRRfAO46Kw?usp=sharing
