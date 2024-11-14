@@ -34,10 +34,7 @@ https://colab.research.google.com/drive/1yo9h2-m_l2jb8I53QG46HiTg7n-AzDEQ?usp=sh
 
 ## Sentiment Analysis
 
-https://colab.research.google.com/drive/1T_9tGCVpaDwPFBf8xtVKdZaMGndiTxRS?usp=sharing
-
-
-8_Nov_2024:- https://colab.research.google.com/drive/1cGt7L-ZM9B7bEn1PvBkI7QFoExmgG4EF?usp=sharing
+https://colab.research.google.com/drive/1cGt7L-ZM9B7bEn1PvBkI7QFoExmgG4EF?usp=sharing
 
 
 ## Sentiment Analysis Models
