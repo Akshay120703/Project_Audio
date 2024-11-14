@@ -23,14 +23,6 @@ https://drive.google.com/drive/folders/1C-3pz8Y5M3F9thkZQvSgaiRIuHw-FFgO?usp=sha
 2) https://github.com/huggingface/peft/blob/main/examples/int8_training/peft_bnb_whisper_large_v2_training.ipynb
 
 
-## Cuda Installation
-
-https://youtu.be/nATRPPZ5dGE?feature=shared
-
-
-## Stable Diffusion Model
-https://colab.research.google.com/drive/1yo9h2-m_l2jb8I53QG46HiTg7n-AzDEQ?usp=sharing
-
 
 ## Sentiment Analysis
 
