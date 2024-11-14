@@ -47,6 +47,10 @@ https://colab.research.google.com/drive/16wk-AbBYs8pvpn5CcHLdgWNjunQp_9Qc
 
 https://colab.research.google.com/drive/1T08sAoz210HiH-ahDhpjcktRRfAO46Kw?usp=sharing
 
+## Chatgpt response to Setting up Llama Locally
+
+https://chatgpt.com/share/6735982f-d328-8000-aaf3-b304a416357b
+
 
 ## Llama Setup Link
 
