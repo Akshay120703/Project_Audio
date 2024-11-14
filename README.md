@@ -38,7 +38,7 @@ https://docs.google.com/document/d/1i4EH_Svs0ZbPSl_7qm_dxfLPY2fhUTyfnBO_gcsAdy8/
 https://docs.google.com/document/d/1nEFj4zRGU5aFMljK6ivUCGx81G9TKHo647VUH3MUrw0/edit?usp=sharing
 
 
-## Copy of Whisper-sentiment-analysis
+## Indic BERT Testing
 
 https://colab.research.google.com/drive/16wk-AbBYs8pvpn5CcHLdgWNjunQp_9Qc
 
