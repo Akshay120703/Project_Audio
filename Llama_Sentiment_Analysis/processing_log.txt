@@ -1,0 +1,39 @@
+Transcription ID: audio1
+Raw Model Output:
+BEGIN JSON
+{
+  "Sentiment Classification": "Positive",
+  "Sentiment Category": "Normal",
+  "Confidence Score": 1.0,
+  "Explanation": "",
+  "NER": ["आज", "का", "दिन", "बहुत", "अच्छा", "सभी", "लोग"],
+  "Keywords": ["खुश"]
+}
+END JSON
+
+Transcription ID: audio2
+Raw Model Output:
+BEGIN JSON
+{
+  "Sentiment Classification": "Negative",
+  "Sentiment Category": "dangerous/threatening",
+  "Confidence Score": 1.0,
+  "Explanation": "भाषा में आक्रामक और हिंसक वाक्य है जो तुम्हारी चोट की धमकी देते हैं.",
+  "NER": ["मैं, तुम"],
+  "Keywords": ["मार", "नुकसान"]
+}
+END JSON
+
+Transcription ID: audio3
+Raw Model Output:
+BEGIN JSON
+{
+  "Sentiment Classification": "Positive",
+  "Sentiment Category": "Normal",
+  "Confidence Score": 1.0,
+  "Explanation": "शाम को पार्क में मिलना और खेलना एक आनंदमयी गतिविधि है।",
+  "NER": ["कल", "पार्क", "खेल"],
+  "Keywords": ["पार्क", "खेल"]
+}
+END JSON
+

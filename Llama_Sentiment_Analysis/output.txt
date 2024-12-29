@@ -1,0 +1,4 @@
+transcript_id,transcript,Sentiment Classification,Sentiment Category,Confidence Score,Explanation,NER,Keywords
+audio1,आज का दिन बहुत अच्छा था। सभी लोग खुश थे।,Positive,Normal,1.0,,"आज, का, दिन, बहुत, अच्छा, सभी, लोग",खुश
+audio2,मैं तुम्हें जान से मार दूंगा। तुम्हारा नुकसान करूंगा।,Negative,dangerous/threatening,1.0,भाषा में आक्रामक और हिंसक वाक्य है जो तुम्हारी चोट की धमकी देते हैं.,"मैं, तुम","मार, नुकसान"
+audio3,कल शाम को पार्क में मिलते हैं और खेल का आनंद लेंगे।,Positive,Normal,1.0,शाम को पार्क में मिलना और खेलना एक आनंदमयी गतिविधि है।,"कल, पार्क, खेल","पार्क, खेल"
