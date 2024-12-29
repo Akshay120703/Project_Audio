@@ -1,0 +1,38 @@
+{
+  "build": "h208afaa_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "liblzma 5.6.3 h2466b09_1",
+    "liblzma-devel 5.6.3 h2466b09_1",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139",
+    "xz-tools 5.6.3 h2466b09_1"
+  ],
+  "extracted_package_dir": "C:\\Users\\aksha\\anaconda3\\pkgs\\xz-5.6.3-h208afaa_1",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "xz-5.6.3-h208afaa_1.conda",
+  "license": "0BSD AND LGPL-2.1-or-later AND GPL-2.0-or-later",
+  "link": {
+    "source": "C:\\Users\\aksha\\anaconda3\\pkgs\\xz-5.6.3-h208afaa_1",
+    "type": 1
+  },
+  "md5": "fce59c05fc73134677e81b7b8184b397",
+  "name": "xz",
+  "package_tarball_full_path": "C:\\Users\\aksha\\anaconda3\\pkgs\\xz-5.6.3-h208afaa_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "636687c7ff74e37e464b57ddddc921016713f13fb48126ba8db426eb2d978392",
+  "size": 23925,
+  "subdir": "win-64",
+  "timestamp": 1733407963000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/xz-5.6.3-h208afaa_1.conda",
+  "version": "5.6.3"
+}

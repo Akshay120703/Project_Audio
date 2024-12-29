@@ -1,0 +1,69 @@
+{
+  "build": "h2466b09_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "liblzma 5.6.3 h2466b09_1",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\aksha\\anaconda3\\pkgs\\xz-tools-5.6.3-h2466b09_1",
+  "files": [
+    "Library/bin/lzmadec.exe",
+    "Library/bin/lzmainfo.exe",
+    "Library/bin/xz.exe",
+    "Library/bin/xzdec.exe",
+    ".nonadmin"
+  ],
+  "fn": "xz-tools-5.6.3-h2466b09_1.conda",
+  "license": "0BSD AND LGPL-2.1-or-later",
+  "link": {
+    "source": "C:\\Users\\aksha\\anaconda3\\pkgs\\xz-tools-5.6.3-h2466b09_1",
+    "type": 1
+  },
+  "md5": "4100be41430c9b2310468d3489597071",
+  "name": "xz-tools",
+  "package_tarball_full_path": "C:\\Users\\aksha\\anaconda3\\pkgs\\xz-tools-5.6.3-h2466b09_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/lzmadec.exe",
+        "path_type": "hardlink",
+        "sha256": "46e66df03a435c79d02a8f0e23891e0e5b6c9b3fbace22bea9893273bb85d3c3",
+        "sha256_in_prefix": "46e66df03a435c79d02a8f0e23891e0e5b6c9b3fbace22bea9893273bb85d3c3",
+        "size_in_bytes": 21504
+      },
+      {
+        "_path": "Library/bin/lzmainfo.exe",
+        "path_type": "hardlink",
+        "sha256": "cbab6a4f691de6ffac73dcb39231b12718fe47ee3f46af68a5e4fa84a0b715fd",
+        "sha256_in_prefix": "cbab6a4f691de6ffac73dcb39231b12718fe47ee3f46af68a5e4fa84a0b715fd",
+        "size_in_bytes": 20480
+      },
+      {
+        "_path": "Library/bin/xz.exe",
+        "path_type": "hardlink",
+        "sha256": "2b93e4a99523466dc4c1be54014a81f54a0c13f4609ee8918c646691eb22a85e",
+        "sha256_in_prefix": "2b93e4a99523466dc4c1be54014a81f54a0c13f4609ee8918c646691eb22a85e",
+        "size_in_bytes": 74752
+      },
+      {
+        "_path": "Library/bin/xzdec.exe",
+        "path_type": "hardlink",
+        "sha256": "1d56d72e97ef7cf4e07528492294cc24ecf0f4b67548a7532f9b0e540b80e9ed",
+        "sha256_in_prefix": "1d56d72e97ef7cf4e07528492294cc24ecf0f4b67548a7532f9b0e540b80e9ed",
+        "size_in_bytes": 21504
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0cb621f748ec0b9b5edafb9a15e342f6f6f42a3f462ab0276c821a35e8bf39c0",
+  "size": 63898,
+  "subdir": "win-64",
+  "timestamp": 1733407936000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/xz-tools-5.6.3-h2466b09_1.conda",
+  "version": "5.6.3"
+}
