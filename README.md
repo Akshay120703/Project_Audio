@@ -6,3 +6,8 @@ Website link:- https://bhashini.gov.in/ulca/model/explore-models
 
 Github Link:- https://github.com/AI4Bharat/IndicXlit
 
+
+PPT:- https://docs.google.com/presentation/d/1xSi9412eebmeSAYtbT0QnYFM6rY3lO3p/edit?usp=sharing&ouid=103612944559554248996&rtpof=true&sd=true
+
+File:- https://drive.google.com/file/d/1SHO7r6UU4ZQKHc-6hVgNnuhQzR8Jbm_k/view?usp=sharing
+
