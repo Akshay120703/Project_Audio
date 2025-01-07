@@ -1,0 +1,9 @@
+Tasks for upcoming week:
+
+1) WER improvement through testing
+2) NeMo Speaker Diarization
+3) Setting up a new VM and installing all the dependencies into the VM
+4) Installing Cuda Toolkit in the VM
+5) Using Llama3.1 for WER Correction.
+6) Validation of the dataset prepared by the 4 students.
+7) Running the script for Llama Error Correction in Semtiment Analysis
