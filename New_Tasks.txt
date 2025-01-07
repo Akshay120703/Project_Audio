@@ -1,0 +1,8 @@
+Tasks for today:
+1) Organize the pipeline for whisper-hindi-large-v2, whisper-at and whisperx transcription generation.
+2) Make a detailed roadmap of how to proceed further.
+
+
+Main Tasks for upcoming week:
+
+1) 
