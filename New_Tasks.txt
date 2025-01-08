@@ -1,8 +1,9 @@
 Tasks for today:
 1) Organize the pipeline for whisper-hindi-large-v2, whisper-at and whisperx transcription generation.
-2) Please renew the wer formula by adding substitution, deletion and insertion.
+2) Please give the total transcribed data for finetuning
 
 
 Main Tasks for upcoming week:
 
-1) 
+1) WER
+2) Finetuning
