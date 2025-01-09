@@ -1,4 +1,6 @@
 Minimizing the wer:
 
-1) Predicted Output == subsequence (Actual Output)
-2) 
+1) Pick up only 100% accurate ground truths from the overall 22 hrs manual transcriptions.
+2) Apply Spelling correction algorithm by giving prompt to Llama3.1 on Predicted Output by taking reference from Actual Output
+3) After this, ask Llama to minimize wer using DP or to reach this state: Predicted Output == subsequence (Actual Output)
+4) Then find the WER
