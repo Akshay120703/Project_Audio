@@ -1,9 +1,4 @@
-Tasks for today:
-1) Organize the pipeline for whisper-hindi-large-v2, whisper-at and whisperx transcription generation.
-2) Please give the total transcribed data for finetuning
+Minimizing the wer:
 
-
-Main Tasks for upcoming week:
-
-1) WER
-2) Finetuning
+1) Predicted Output == subsequence (Actual Output)
+2) 
