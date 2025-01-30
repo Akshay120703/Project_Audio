@@ -1,0 +1,10 @@
+audio_01.wav, मेरा नाम राज है।
+audio02.wav, आज का मौसम बहुत अच्छा है।
+audio_03.wav, कृपया मुझे [[HIGHLIGHT]]बझार[[/HIGHLIGHT]] तक ले [[HIGHLIGHT]]चलें[[/HIGHLIGHT]]
+audio_04.wav, ट्रेन शाम 5 बजे आएगी।
+audio_05.wav, हमें कल एक महत्वपूर्ण बैठक शामिल होना है।
+audio_06.wav, यहाँ पर गाड़ी खड़ी करना [[HIGHLIGHT]]माना[[/HIGHLIGHT]] है।
+audio_07.wav, अगले स्टेशन पर उतरना होगा।
+audio_08.wav, इस काम को पूरा करने में [[HIGHLIGHT]]थोड़ा[[/HIGHLIGHT]] समय लगेगा।
+audio_09.wav, क्या आप मुझे अपने साथ ले जा सकते हैं?
+audio_10.wav, मेरे पास समय [[HIGHLIGHT]]नहीं।[[/HIGHLIGHT]]
