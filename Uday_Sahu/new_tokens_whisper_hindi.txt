@@ -1,0 +1,36 @@
+from transformers import WhisperForConditionalGeneration, WhisperProcessor, WhisperTokenizer
+import torch
+
+# Load the pre-trained model and tokenizer
+model_name = "path-to-whisper-hindi-large-v2"  # Update with the correct path or model name
+tokenizer = WhisperTokenizer.from_pretrained(model_name)
+processor = WhisperProcessor.from_pretrained(model_name)
+model = WhisperForConditionalGeneration.from_pretrained(model_name)
+
+# Load new tokens from a text file
+token_file = "new_tokens.txt"  # Update with the correct file path
+
+with open(token_file, "r", encoding="utf-8") as f:
+    new_tokens = [line.strip() for line in f.readlines() if line.strip()]
+
+# Filter out existing tokens to avoid duplication
+existing_tokens = set(tokenizer.get_vocab().keys())
+tokens_to_add = [token for token in new_tokens if token not in existing_tokens]
+
+if tokens_to_add:
+    print(f"Adding {len(tokens_to_add)} new tokens...")
+
+    # Add new tokens to the tokenizer
+    tokenizer.add_tokens(tokens_to_add)
+    
+    # Resize the model's embedding layer to accommodate new tokens
+    model.resize_token_embeddings(len(tokenizer))
+
+    # Save the updated tokenizer and model
+    tokenizer.save_pretrained("updated_whisper_hindi_large_v2")
+    processor.save_pretrained("updated_whisper_hindi_large_v2")
+    model.save_pretrained("updated_whisper_hindi_large_v2")
+
+    print("New tokens added and model updated successfully.")
+else:
+    print("No new tokens to add. The tokenizer already contains all tokens from the file.")
