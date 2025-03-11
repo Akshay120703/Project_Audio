@@ -65,6 +65,7 @@ Setting to True: Essential for subtitle generation and AI dubbing.
 Effect: Controls whether the model transcribes or translates.
 Options: "transcribe" (default) or "translate"
 Translation Mode: Converts speech to English, useful for multilingual audio.
+
 🔹 13. Suppress Tokens (suppress_tokens)
 Effect: Prevents specific tokens from appearing in the output.
 Usage: Prevent unwanted characters, numbers, or filler words.
