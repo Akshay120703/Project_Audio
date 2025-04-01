@@ -13,3 +13,5 @@ Ensembling Techniques:- [https://chatgpt.com/c/6799bd6c-b3c4-8002-8fd1-3bb2436dd
 
 
 WER debug report:- [https://chatgpt.com/share/679b0c9e-7740-8002-9611-6cc24c801d87](https://chatgpt.com/share/679b0c9e-7740-8002-9611-6cc24c801d87)
+
+https://docs.google.com/presentation/d/1nSKecIREVwFAYttI-43sTUrh_5eL6JMd/edit#slide=id.p5
