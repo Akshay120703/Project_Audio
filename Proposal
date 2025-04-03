@@ -1,0 +1,119 @@
+Proposal: Data Analytics & Transcription Error Analysis for ASR Improvement
+Objective:
+To develop a structured learning-based approach where students analyze and refine ASR-generated transcriptions, categorize audio quality, and provide valuable insights for improving ASR accuracy.
+
+Project Scope & Methodology
+1️⃣ Data Categorization & Quality Assessment
+Students will manually assess and categorize transcribed audios into three distinct classes:
+
+🔹 Category 1: Noisy Audio
+
+Audio where noise significantly affects intelligibility.
+
+Requires additional denoising or preprocessing.
+
+🔹 Category 2: Poor Quality Speech (Without Noise)
+
+Audio that is not noisy but still difficult for ASR to transcribe correctly (e.g., unclear pronunciation, muffled speech, low volume).
+
+🔹 Category 3: Clean & Audible Audio
+
+Clear speech that an ASR should transcribe accurately.
+
+✅ Learning Outcome: Students gain expertise in identifying ASR vulnerabilities based on audio characteristics.
+
+2️⃣ Transcription Correction & Error Analysis
+Students will correct ASR-generated transcriptions and track different types of errors:
+
+🔹 Word Error Rate (WER) Breakdown:
+
+Substitutions (incorrect word used)
+
+Insertions (extra words added)
+
+Deletions (missing words)
+
+🔹 Pronunciation-Based Errors:
+
+Identifying patterns where ASR mishears similar-sounding words.
+
+🔹 Hallucination Analysis:
+
+Cases where ASR completely fabricates words instead of transcribing actual speech.
+
+✅ Learning Outcome:
+
+Students will understand how ASR models fail in different scenarios.
+
+They will identify common failure patterns, making this analysis valuable for future ASR improvements.
+
+3️⃣ Model Adaptation Strategy (Advanced Task)
+For students with a machine learning background, additional research-based tasks can be included:
+
+🔹 Feature Extraction:
+
+Identify patterns where certain phonemes or accents cause errors.
+
+Track errors based on speaker gender, age, or dialect.
+
+🔹 Model Improvement Recommendations:
+
+Suggest fine-tuning parameters based on error analysis.
+
+Evaluate whether Ensembling or preprocessing techniques (e.g., noise reduction) would be more beneficial.
+
+✅ Learning Outcome:
+
+Students gain hands-on exposure to practical ASR improvements without needing full-scale fine-tuning.
+
+4️⃣ Insights & Reporting
+Students will generate data-driven reports with the following:
+📊 Statistical Insights:
+
+Breakdown of error distribution per category.
+
+How often certain words get misrecognized.
+
+📈 Visualization & Trend Analysis:
+
+Graphs showcasing WER variations across different audio types.
+
+Common misrecognized words and their frequency.
+
+📌 Recommendations & Observations:
+
+What ASR fails at most often (e.g., numbers, names, slang, accents).
+
+Possible strategies to improve accuracy (e.g., pre-filtering low-quality audio before ASR processing).
+
+✅ Learning Outcome:
+
+Develops critical thinking and data analytics skills.
+
+Provides real-world insights to enhance ASR technology.
+
+Final Benefits of the Proposal
+✅ Students Get Practical Learning
+
+Exposure to speech recognition challenges and ML-based transcription systems.
+
+Gain data analysis, NLP, and software tool experience (Audacity, Praat, Python for analytics).
+
+✅ Valuable for ASR Model Developers
+
+Provides high-quality insights instead of just raw transcriptions.
+
+Helps refine data collection strategies for future ASR improvements.
+
+✅ Government Officials Get Structured Data
+
+Instead of wasting effort on endless manual transcriptions, this provides structured, labeled data that is genuinely useful for ASR enhancement.
+
+Conclusion
+This proposal ensures that:
+1️⃣ Students gain practical knowledge & useful ML exposure.
+2️⃣ ASR models receive structured insights for future improvements.
+3️⃣ It prevents the project from being reduced to mere data-entry work.
+4️⃣ The government gets high-quality data analysis instead of just transcripts.
+
+🎯 This approach balances learning, innovation, and real-world impact! 🚀
